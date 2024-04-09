@@ -1,0 +1,5 @@
+total 16
+drwxrwxr-x 2 ziad ziad 4096 Oct 24 17:53 gggg (copy)
+drwxrwxr-x 2 ziad ziad 4096 Oct 24 17:53 gggg (another copy)
+drwxrwxr-x 2 ziad ziad 4096 Oct 24 17:53 gggg (3rd copy)
+drwxrwxr-x 2 ziad ziad 4096 Oct 24 17:55 gggg
